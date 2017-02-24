@@ -5,16 +5,16 @@
     <description>Portfolio of Drew Miller</description>
     <link>http://joyfulcoding.github.io/</link>
     <atom:link href="http://joyfulcoding.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Feb 2017 02:29:20 -0800</pubDate>
-    <lastBuildDate>Fri, 24 Feb 2017 02:29:20 -0800</lastBuildDate>
+    <pubDate>Fri, 24 Feb 2017 07:24:32 -0800</pubDate>
+    <lastBuildDate>Fri, 24 Feb 2017 07:24:32 -0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title>Portfolio</title>
+        <title>Welcome</title>
         <description>&lt;p&gt;Hi there!  I’m looking forward to sharing my journey in web development
-with you, and in particular topics that will aid you in mastering
+with you, and in particular things that will aid you in mastering
 Javascript and other front end development topics.  In the meantime
-be sure to check out the &lt;a href=&quot;http://joyfulcoding.github.io/about&quot;&gt;Portfolio&lt;/a&gt;!&lt;/p&gt;
+be sure to check out the &lt;a href=&quot;http://joyfulcoding.github.io/about&quot;&gt;About&lt;/a&gt; section!&lt;/p&gt;
 </description>
         <pubDate>Thu, 23 Feb 2017 17:43:16 -0800</pubDate>
         <link>http://joyfulcoding.github.io/portfolio/</link>
