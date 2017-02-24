@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joyful Coding</title>
+    <description>Portfolio of Drew Miller</description>
+    <link>http://joyfulcoding.github.io/</link>
+    <atom:link href="http://joyfulcoding.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 24 Feb 2017 02:29:20 -0800</pubDate>
+    <lastBuildDate>Fri, 24 Feb 2017 02:29:20 -0800</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Portfolio</title>
+        <description>&lt;p&gt;Hi there!  I’m looking forward to sharing my journey in web development
+with you, and in particular topics that will aid you in mastering
+Javascript and other front end development topics.  In the meantime
+be sure to check out the &lt;a href=&quot;http://joyfulcoding.github.io/about&quot;&gt;Portfolio&lt;/a&gt;!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Feb 2017 17:43:16 -0800</pubDate>
+        <link>http://joyfulcoding.github.io/portfolio/</link>
+        <guid isPermaLink="true">http://joyfulcoding.github.io/portfolio/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
