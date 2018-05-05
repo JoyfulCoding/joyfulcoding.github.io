@@ -1,4 +1,7 @@
 (function( $, window, undefined ) {
+  // Animate
+  console.log("Hello from Zepto");
+
   // Menu
   $("a#slide").click(function(){
     $("#sidebar,a#slide,#fade").addClass("slide");
